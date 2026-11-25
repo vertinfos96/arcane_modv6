@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CC ",
+    "CS ",
+    "S  "
+  ],
+  "key": {
+    "C": "arcane:arcane_crystal",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "arcane:arcane_staff",
+    "count": 1
+  }
+}

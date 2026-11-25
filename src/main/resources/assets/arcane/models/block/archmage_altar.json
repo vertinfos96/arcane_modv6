@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "arcane:block/archmage_altar_top",
+    "bottom": "arcane:block/archmage_altar_bottom",
+    "side": "arcane:block/archmage_altar_side"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "arcane",
+  "version": "${version}",
+  "name": "Arcane Staff",
+  "description": "Волшебный посох, три класса (маг, мечник, лучник) с древом навыков на клавишу K, два моба и босс Арканный Страж.",
+  "authors": [
+    "Student"
+  ],
+  "license": "MIT",
+  "icon": "assets/arcane/textures/item/arcane_staff.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "arcane.ArcaneMod"
+    ],
+    "client": [
+      "arcane.client.ArcaneClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

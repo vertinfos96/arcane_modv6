@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CAC",
+    "AOA",
+    "OOO"
+  ],
+  "key": {
+    "C": "arcane:arcane_crystal",
+    "A": "minecraft:amethyst_shard",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "arcane:archmage_altar",
+    "count": 1
+  }
+}

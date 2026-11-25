@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "arcane:arcane_staff"
+    },
+    "title": {
+      "translate": "advancement.arcane.root.title"
+    },
+    "description": {
+      "translate": "advancement.arcane.root.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

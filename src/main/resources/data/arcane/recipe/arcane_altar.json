@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    "COC",
+    "OOO"
+  ],
+  "key": {
+    "C": "arcane:arcane_crystal",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "arcane:arcane_altar",
+    "count": 1
+  }
+}

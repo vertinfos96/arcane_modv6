@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "arcane:archmage_staff"
+    },
+    "title": {
+      "translate": "advancement.arcane.archmage_slayer.title"
+    },
+    "description": {
+      "translate": "advancement.arcane.archmage_slayer.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "arcane:altar_ritual",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

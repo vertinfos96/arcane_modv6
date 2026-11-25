@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "arcane:arcane_altar"
+    },
+    "title": {
+      "translate": "advancement.arcane.altar_ritual.title"
+    },
+    "description": {
+      "translate": "advancement.arcane.altar_ritual.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "arcane:root"
+}
